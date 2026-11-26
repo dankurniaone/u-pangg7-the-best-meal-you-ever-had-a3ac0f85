@@ -6,12 +6,12 @@
 
 A [make.fun](https://make.fun/competitions/u-pangg7-the-best-meal-you-ever-had-a3ac0f85) entry: one sentence, at most 200 characters, about the best meal I ever had.
 
-> A street vendor in Jakarta handed me a plastic bag of nasi goreng with a fried egg on top, and I ate it on the curb at midnight, knees up, happier than at any white-tablecloth dinner since.
+> The best meal I ever had was Indomie cooked in a hotel kettle at 4am, and the chef who caught me asked for the recipe.
 
 ## Run
 
 ```sh
-python3 main.py --check     # validate the entry (189 chars)
+python3 main.py --check     # validate the entry (118 chars)
 python3 main.py             # write it to /output/entry.txt
 ```
 
